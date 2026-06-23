@@ -1,0 +1,6 @@
+{
+  "name": "ShareBeam",
+  "description": "Robust, high-performance responsive local file-sharing app optimized for both Android TV leanback and mobile touch screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
